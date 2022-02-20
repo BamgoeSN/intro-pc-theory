@@ -1,0 +1,21 @@
+# Foreword
+
+In modern Guideline Tetris, the art of Perfect Clearing is a relatively niche one. A technique where one clears the field with no residue remaining, akin to the initial state of the game, Perfect Clears (PCs) are difficult to come upon in fast-paced games, even more so when hindered by an opponent. Despite being worth about half a board of sent lines in guideline versus, PCs’ main debut are at the starts of games, where the field is still sterile; any PCs that appear in the midgame are generally attributed to luck.
+
+Furthermore, PCs require more study to reliably execute than simpler opening setups, and without much varying effect; the property of sent lines to also function as ammo for the opponent may backfire for a PC. As such, PCs in versus are said to be unreliable at best, and optional at worst, with many players focusing on midgame and other aspects to improve their play.
+
+Single-player modes provide more chances for PCs to shine. In score-based gameplay PCs often score a large amount; under optimal conditions PCs are more efficient score-wise in relation to other methods. The lack of a harassing opponent allows a smart player to leave the board clean under their own terms. A fairly large portion of scores achieved on the leaderboards are done so with some form of Perfect Clearing.
+
+The true art of Perfect Clearing, however, known as Pure PCs, or Consecutive PCs, is rarer than its hybrid counterparts. What is more commonly seen in the leaderboards often consists of T-spins as an augment, or have T-spins as the main scoring tool with PCs acting as a reset of the board. These techniques sidestep the hardest parts of Perfect Clearing. Yet they prosper, for speed is also a factor; it is easier to perform a simpler technique fast to compensate a drop in efficiency. To that effect, even within those hybrid techniques, a mind for efficiency is not required to excel as long as speed compensates.
+
+Separate from those leaderboards is an enclave. PC Mode, a gamemode where only consecutive PCs are allowed, is the main endeavour and motivation of those interested in Consecutive PCs. In this mode, speed is not important, as virtually the only factor is the number of PCs done in a row; though gravity is doubled to reduce excessive stalling. Efficiency shines here, with research and study geared towards the increase of theoretical and practical success chances, unbounded by most mechanical constraints. Those who top the leaderboard are the ones with knowledge and situational awareness, alongside honed PC vision and stamina to consistently apply it.
+
+The art of Consecutive Perfect Clearing has come a long way since the early days of Tetris. The path of research has been a mountain, with players and researchers of the previous Tetris generations paving the way for many others to reach further. As of writing, there is one player far above the rest on the leaderboard, simply known as hummus, with well over 200 PCs in a row. Players may be close to the point where an actual PC mode run will surpass 300 consecutive PCs, a sequence once worked over as a collaborative study by Shuey and QuestionMark, as an exhibition towards the plausible chances that consecutive PCs were possible for essentially forever, if you knew the pieces that came next.
+
+Research on Consecutive PCs is likely the closest to the theory of Tetris in comparison to other game modes. Due to the lack of opposing players and mechanical requirements, PC mode plays most like a puzzle game as opposed to other modes. Research on the properties and differences of pieces in relation to each other and the field is important to understand why some placements work better. Particularly due to the theoretical aspect of consecutive PC research itself, the ideas and theories are often intimately related to the core of tetromino stacking.
+
+Consecutive PC research will eventually propagate and influence theory on other Tetris game modes and methods. The findings may be applicable to stacking in general, or form a base idea to further research other modes on. Tetris has not been fully solved, and is unlikely to be as more modes and ideas turn up. Thus research shall advance according to those constraints, and further understanding will be obtained.
+Should the ideas connect, so progress is nurtured.
+
+STICKMANCOMIC \
+2021/06/05
